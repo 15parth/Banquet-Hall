@@ -1,0 +1,28 @@
+.footer {
+  margin: 10px;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border: 10px;
+  box-shadow: 0 4px 8px rgba(13, 12, 12, 0.5);
+  color: white;
+}
+
+#email {
+  background-color:  white;
+}
+
+.input-container {
+  display: flex;
+  align-items: flex-start;
+  color: white;
+}
+
+.input {
+  height: 50vh;
+  width: 50vw;
+  padding: 10px;
+  box-sizing: border-box;
+}
