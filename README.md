@@ -20,7 +20,8 @@ Highlight key features of your project.
 
 - [React](https://reactjs.org/)
 - [Bootstrap](https://getbootstrap.com/)
-- [Tailwind CSS](https://tailwindcss.com/)
+- Material Ui
+
 
   ## screenshots
 
